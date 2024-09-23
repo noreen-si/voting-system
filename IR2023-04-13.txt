@@ -1,0 +1,7 @@
+Commence initialization of candidate information: , 
+Candidate 0 name: CandidateA Party: (A), 
+Candidate 1 name: CandidateB Party: (B), 
+The header has been read. There are: 2 candidates at the start of the election, 2 number of ballots in this election., 
+1, , 
+, 1, 
+Candidate CandidateB has won with 1 votes., 
